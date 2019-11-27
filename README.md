@@ -1,1 +1,3 @@
 # Deep-Learning-for-Heartbeat-classification
+
+Arrhythmia is a problem with the rate of one’s heartbeat. It occurs because of the irregularities in the heartbeats. The electrocardiogram (ECG) is an indicative instrument used to record the heartbeats on the moving strip of paper or line on the screen. There has been significant amount of methods for the detection of ECG-based arrhythmia detection. In this project we propose a deep neural network which detects the arrhythmia. We have used MIT-BIH Arrhythmia database. We first process the signals using denoising, peak detection, segmentation. We then extract the features using temporal feature extraction and finally pass it to the deep neural network. Index Terms—Arrhythmia, ECG, deep neural network
